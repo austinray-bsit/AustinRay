@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Austin Ray</h1>
-<h3 align="center">A passionate Software Developer at Philippines</h3>
+<h3 align="center">A Passionate Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=austin-bsit&label=Profile%20views&color=0e75b6&style=flat" alt="austin-bsit" /> </p>
 
-- 🌱 I’m currently learning **React, NextJS, Redux, AWS**
+- 🌱 I’m currently learning **React, NextJS, Redux, AWS, Philippine Payment Gateways**
 
 - 👨‍💻 All of my projects are available at [https://austinrayaranda.netlify.app/](https://austinrayaranda.netlify.app/)
 
